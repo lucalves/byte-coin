@@ -1,3 +1,3 @@
 # byte-coin
 
-Description to be included.
+Description and screenshots to be included.
