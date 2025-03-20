@@ -1,3 +1,4 @@
 # byte-coin
 
-> Description and project screenshots to be included later.
+Converts current currencies and returns values ​​in bitcoin through the URLSession class.
+
